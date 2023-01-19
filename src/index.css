@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:light,semiBold,extraBold");
+
+:root {
+  --very-dark-blue: hsl(200, 15%, 8%);
+  --dark-gray: hsl(0, 0%, 52%);
+  --very-light-gray: hsl(0, 0%, 98%);
+  --white: hsl(0, 0%, 100%);
+}
+
+* {
+  list-style: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Nunito Sans";
+  color: var(--very-dark-blue);
+}
+
+header {
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,14 @@
+header {
+  padding: 2em 7em;
+}
+
+h1 {
+  color: var(--very-dark-blue);
+  font-weight: 800;
+}
+
+.content-wrapper {
+  background-color: var(--very-light-gray);
+  padding: 4em 5em;
+  height: calc(100vh - 73px);
+}
