@@ -1,3 +1,8 @@
+### To run
+
+- npm install
+- npm start
+
 ### Objective
 
 Your challenge is to integrate with the [REST Countries API](https://restcountries.com/#api-endpoints-v2) to pull country data and display it like in the designs. Use TypeScript and React.
